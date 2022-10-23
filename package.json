@@ -1,0 +1,33 @@
+{
+  "name": "express-login-form",
+  "version": "1.0.0",
+  "description": "Express.js & EJS example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastCleanShirt/el-form.git"
+  },
+  "keywords": [
+    "express",
+    "ejs"
+  ],
+  "author": "LastCleanShirt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastCleanShirt/el-form/issues"
+  },
+  "homepage": "https://github.com/LastCleanShirt/el-form#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
